@@ -1,0 +1,8 @@
+azure-identity
+azure-keyvault-secrets
+azure-search-documents
+azure-core==1.41.0
+fastapi
+uvicorn
+openai
+python-dotenv

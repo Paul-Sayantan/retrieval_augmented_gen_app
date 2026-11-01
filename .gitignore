@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+
+# Allow the example template
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Local documents and generated files
+documents/*
+!documents/.gitkeep
+
+*.log
